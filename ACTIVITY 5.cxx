@@ -1,4 +1,4 @@
-// Danniel A. Placido
+// Markjenson A. Abel
 // BSIT&1R
 
 #include <iostream>
@@ -7,7 +7,7 @@ using namespace std;
 
 void getUserName() {
     string name;
-    cout << "Danniel A. Placido: ";
+    cout << "Markjenson Abel: ";
     getline(cin, name);
     cout << "Hello, " << name << "!" << endl;
 }
